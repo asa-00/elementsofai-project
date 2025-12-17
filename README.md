@@ -1,7 +1,7 @@
 # Predictive AI for Food Security in Vulnerable Regions
 
 Final project for the Building AI course
-<img src="cover.png" width="800" alt="Project cover">
+<img src="cover.png" width="1000" alt="Project cover">
 
 ## Table of Contents
 1. [Summary](#summary)
