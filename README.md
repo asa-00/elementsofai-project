@@ -1,6 +1,7 @@
 # Predictive AI for Food Security in Vulnerable Regions
 
 Final project for the Building AI course
+<img src="cover.png" width="800" alt="Project cover">
 
 ## Table of Contents
 1. [Summary](#summary)
@@ -14,8 +15,6 @@ Final project for the Building AI course
 ## Summary
 
 This project proposes an AI-based decision support system that combines satellite data, climate signals, and socio-economic indicators to predict crop yield, water stress, and food insecurity risk in vulnerable regions such as Somalia. The goal is early warning and preventive action rather than crisis response.
-
-<img src="cover.png" width="800" alt="Project cover">
 
 ## Background
 
