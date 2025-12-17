@@ -2,9 +2,20 @@
 
 Final project for the Building AI course
 
+## Table of Contents
+1. [Summary](#summary)
+2. [Background](#background)
+3. [How is it used?](#how-is-it-used)
+4. [Data sources and AI methods](#data-sources-and-ai-methods)
+5. [Challenges](#challenges)
+6. [What next?](#what-next)
+7. [Acknowledgments](#acknowledgments)
+
 ## Summary
 
 This project proposes an AI-based decision support system that combines satellite data, climate signals, and socio-economic indicators to predict crop yield, water stress, and food insecurity risk in vulnerable regions such as Somalia. The goal is early warning and preventive action rather than crisis response.
+
+<img src="assets/cover.png" width="800" alt="Project cover">
 
 ## Background
 
